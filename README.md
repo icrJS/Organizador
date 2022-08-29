@@ -42,7 +42,7 @@ CÓDIGO ABAIXO:
 
 
 
-"""
+
 PROGRAMA: organizador de arquivos xls e doc/docx em pasta para subpastas.
 REQUISITOS: Sua tarefa é organizar tais arquivos nas pastas planilhas e documentos
 de acordo com a extens˜ao do arquivo. Para executar sua tarefa, escreva um programa em Python que crie as pastas e mova os arquivos para as devidas pastas.
@@ -95,7 +95,7 @@ if __name__ == "__main__":
 #print os.path.isdir("arquivos")
     
 
-"""
+
 
 
 
